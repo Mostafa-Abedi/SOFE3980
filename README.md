@@ -29,13 +29,11 @@ The primary goals of this tutorial are:
 
 In Task 1, participants will create a test for the "add" method, experience the initial failure, implement the method, and observe the successful test results.
 
-![Task 1 - Test and Implementation](images/task1.png)
 
 ### Task 2
 
 Task 2 involves a real-world example, the "wordz" game, guiding participants through the creation of test codes and the implementation of corresponding methods.
 
-![Task 2 - Wordz Example](images/task2.png)
 
 ## Questions and Answers
 
