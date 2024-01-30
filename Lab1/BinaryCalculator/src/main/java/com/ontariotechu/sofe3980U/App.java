@@ -1,5 +1,4 @@
 package com.ontariotechu.sofe3980U;
-import java.util.Scanner;
 import org.joda.time.LocalTime;
 
 /**
@@ -33,6 +32,5 @@ public class App
 		Binary multiplyResult = Binary.Multiply(binary1, binary2);
 		System.out.println("The product of the values is: " + multiplyResult.getValue());
 
-		scanner.close();
     }
 }
