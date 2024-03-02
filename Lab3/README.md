@@ -22,7 +22,6 @@ mostafa.abedi@ontariotechu.net
   - [MySQL](#mysql)
 - [Conclusion](#conclusion)
 
-## Lab 3
 
 ## Introduction
 A brief description of the lab assignment
