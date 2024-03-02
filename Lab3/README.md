@@ -18,7 +18,6 @@ mostafa.abedi@ontariotechu.net
   - [What is Kubernetes?](#what-is-kubernetes)
   - [Terminologies](#terminologies-1)
 - [Links](#links)
-  - [Github](#github)
   - [YAML](#yaml)
   - [MySQL](#mysql)
 - [Conclusion](#conclusion)
