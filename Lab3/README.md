@@ -40,7 +40,6 @@ Our goals for this lab assignment:
 ### What is Docker?
 Docker is a software tool designed to simplify the process of deploying applications by packaging them into lightweight containers. These containers ensure that applications can run smoothly and efficiently across different environments. Docker provides the suitable framework for each different application since every application has a framework with a suitable version. This space also can be utilized for a new software application, along with its required framework. As a result, docker makes more efficient use of system resources.
 
-![Visualization of how Docker is used](https://path/to/your/image.png)
 
 ### Terminologies
 There are different terminologies used in docker here are a few examples:
