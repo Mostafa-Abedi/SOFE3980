@@ -64,13 +64,11 @@ Kubernetes has many terminologies, here are a few of them described:
 4. **Service**: A Service in Kubernetes is an abstraction that defines a logical set of pods and a policy by which to access them. It provides a stable endpoint (IP address and port) for accessing one or more pods, regardless of their individual IP addresses or whether they are running on the same node or different nodes. Services enable communication between different parts of an application or between different applications within the cluster, and they can be of different types, such as ClusterIP, NodePort, and LoadBalancer, depending on how they expose the pods to the outside world or other services within the cluster.
 
 ## Links
-### Github
-The code for the lab Assignment can be found [here](https://github.com/Mostafa-Abedi/SOFE3980.git).
 
-### YAML
+### YAML Video
 The video describing the process of creating the deployment and service using YAML files can be found [here](https://github.com/Mostafa-Abedi/SOFE3980.git).
 
-### MySQL
+### MySQL Video
 The code from each tutorial can be found [here](https://github.com/Mostafa-Abedi/SOFE3980.git).
 
 ## Conclusion
